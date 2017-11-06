@@ -1,4 +1,4 @@
-#Validate IMAP IP Gmail
+# Validate IMAP IP Gmail
 
 When you want to connect to Gmail through IMAP you first need verify the IP address of your local machine or server.
 
